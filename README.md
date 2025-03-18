@@ -13,3 +13,7 @@ Awesome-Arts
 TranZero
 - [Logo](Logos/TranZero/Logo.png)
 - [Project](https://github.com/FabDonRixos/TranZero)
+
+Selto
+- [Logo](Logos/Selto/Logo.png)
+- [Project](https://github.com/Liuuner/selto)
